@@ -1,0 +1,1 @@
+create table Items(Code varchar(20) unique,Name varchar(50),Price float,Tax float, Number int)
